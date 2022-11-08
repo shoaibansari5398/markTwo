@@ -1,4 +1,4 @@
-NoegCamp - Level Zero - Mark Two
+# NeogCamp - Level Zero - Mark Two
 
 Quiz on Programming
 
